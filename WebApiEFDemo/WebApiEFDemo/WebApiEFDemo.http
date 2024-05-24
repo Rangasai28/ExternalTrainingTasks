@@ -1,0 +1,6 @@
+@WebApiEFDemo_HostAddress = http://localhost:5032
+
+GET {{WebApiEFDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
