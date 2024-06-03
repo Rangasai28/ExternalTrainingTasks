@@ -1,0 +1,6 @@
+@ArchitectureWebAPi_HostAddress = http://localhost:5139
+
+GET {{ArchitectureWebAPi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
